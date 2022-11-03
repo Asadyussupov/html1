@@ -1,0 +1,27 @@
+h3{
+    color:bisque;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: large;
+}
+
+
+#computers{
+    color:aqua;
+    font-size: 20px;
+}
+
+#subjects{
+    color: aquamarine;
+    font-size: 10px;
+}
+
+#cars{
+    color: bisque;
+    font-size: 20px;
+}
+
+p[onclick]{
+    color:cyan;
+    border: 1px green;
+    box-shadow: 4 4 4 grey;
+}
